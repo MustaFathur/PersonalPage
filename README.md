@@ -1,2 +1,2 @@
-#Personal Page
-Tugas Upgrading 1 OR Ke-14 LEA 
+# Personal Web Page
+Tugas Upgrading 1 Open Recruitment LEA Ke-14 
